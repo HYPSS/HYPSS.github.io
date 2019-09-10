@@ -1,5 +1,0 @@
-HAI
-There
-Its 
-ME
-MINE TURTLE!
