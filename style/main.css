@@ -22,7 +22,7 @@ body {
 .navbar {
     background-color: white;
     overflow: hidden;
-    margin: 0px;
+    margin: -10px;
 }
 
 /* Style the links inside the navigation bar */
