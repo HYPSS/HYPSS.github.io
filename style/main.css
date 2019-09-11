@@ -1,11 +1,10 @@
 /*Css for main page and other similar pages*/
 
 body {
+    font-family: "Helvetica Neue", "Segoe", sans-serif;
     text-align: center;
 }
 
 #welcome {
-    font-family: "Helvetica Neue", "Segoe", sans-serif;
     color: skyblue;
-    background-color: black;
 }
