@@ -40,3 +40,7 @@ body {
     background-color: skyblue;
     color: white;
 }
+
+#home-icon {
+    margin: -8px 5px -12px 5px;
+}
