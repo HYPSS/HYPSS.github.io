@@ -3,8 +3,44 @@
 body {
     font-family: "Helvetica Neue", "Segoe", sans-serif;
     text-align: center;
+    background-color: skyblue;
 }
 
-#welcome {
-    color: skyblue;
+.bubble {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    margin: 10px 12.5%;
+    padding: 20px;
+}
+
+.welcome {
+    color: white;
+}
+
+/* Add a white background color to the top navigation */
+.navbar {
+    background-color: white;
+    overflow: hidden;
+    margin: -10px;
+}
+
+/* Style the links inside the navigation bar */
+.navbar a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.navbar a:hover {
+    background-color: skyblue;
+    color: white;
+}
+
+#home-icon {
+    margin: -8px 5px -12px 5px;
 }
